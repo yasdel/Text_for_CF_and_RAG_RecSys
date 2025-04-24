@@ -1,0 +1,18 @@
+{
+  "dataset": "Amazon_Gift_Cards",
+  "timestamp": "2025-04-24 17:03:41",
+  "critic_enabled": true,
+  "detail_level": "short",
+  "k_core": 2,
+  "max_reviews_per_item": 2,
+  "embedding_backend": "sentence_transformer",
+  "augment_cols": [
+    "concat_only",
+    "harmonize",
+    "marketing",
+    "counterfactual",
+    "sentiment_boost"
+  ],
+  "n_items_final": 45,
+  "n_ratings_final": 2430
+}
