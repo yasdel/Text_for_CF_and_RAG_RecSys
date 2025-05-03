@@ -1,0 +1,14 @@
+{
+  "ds_index": 17,
+  "k_core": 4,
+  "frac": 1.0,
+  "run_cf": true,
+  "run_text": true,
+  "run_dense": false,
+  "n_hpo_points": 8,
+  "parallel_hpo": true,
+  "seed": 42,
+  "split_mode": "random",
+  "train_frac": 0.8,
+  "max_vocab": 20000
+}
